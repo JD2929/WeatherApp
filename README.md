@@ -6,7 +6,10 @@ The user is able to quickly recheck previous cities as they are stored in local 
 
 ## Link to my GitHub Repo
 
+https://github.com/JD2929/WeatherApp
+
 ## Link to deployed page
+
 
 ## Screenshot of the deployed page with one city already entered
 
