@@ -10,6 +10,10 @@ https://github.com/JD2929/WeatherApp
 
 ## Link to deployed page
 
+https://jd2929.github.io/WeatherApp/
 
-## Screenshot of the deployed page with one city already entered
+## Screenshot of the deployed page 
+
+![image](https://github.com/JD2929/WeatherApp/assets/139637504/b4ef57a1-51fa-46a1-b4e2-3f665173c5dd)
+
 
