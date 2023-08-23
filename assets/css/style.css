@@ -1,3 +1,10 @@
+header {
+    background-color: blue ;
+    border-color: #ffc107 2px solid;
+    color:whitesmoke;
+    font-size: 35px;
+    text-align: center;
+}
 .city-name{
     text-align: center;
 }
