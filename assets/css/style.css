@@ -10,11 +10,19 @@
     margin-left:3vw;
 }
 
+#input-search{
+    margin-top: 10px;
+}
+
 .history-container{
     display: flex;
     flex-direction: column;
     margin-top: 3vh;
     margin-bottom: 3vh;
+}
+
+.historyBar{
+    background-color: lightgray;
 }
 
 .btn{
